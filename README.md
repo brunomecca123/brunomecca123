@@ -8,7 +8,9 @@
 
 💻 **Desenvolvedor Web** na **UniCV - Centro Universitário Cidade Verde** desde março de 2024
 
-Sou apaixonado por tecnologia, programação e resolução de problemas. Atualmente atuo como Desenvolvedor Web na UniCV, utilizando PHP com Laravel e iniciando em Angular, com alguns meses de experiência. Busco constantemente novos desafios e aprendizado contínuo para desenvolver soluções eficientes e escaláveis.
+Desenvolvedor que transforma ideias em código! Com uma paixão genuína por criar soluções digitais que fazem a diferença, trabalho principalmente como Full Stack PHP/Laravel e estou mergulhando de cabeça no mundo do Angular para o frontend. Cada linha de código é uma oportunidade de aprender algo novo e construir algo incrível.
+
+Acredito que a tecnologia deve ser acessível e eficiente, por isso me dedico a escrever código limpo, performático e que realmente resolve problemas do mundo real.
 
 🎓 **Formação:** Engenharia de Software e Análise e Desenvolvimento de Sistemas pela UniCV
 
@@ -61,14 +63,14 @@ Sou apaixonado por tecnologia, programação e resolução de problemas. Atualme
 
 <div align="center">
   
-[![Bot Telegram Card](https://github-readme-stats.vercel.app/api/pin/?username=brunomecca123&repo=ecommerce-cursos&theme=radical&description_lines_count=2)](https://github.com/brunomecca123/pegou-promo)
-[![Sistema Estágios Card](https://github-readme-stats.vercel.app/api/pin/?username=brunomecca123&repo=sistema-estagios&theme=radical&description_lines_count=2)](https://github.com/brunomecca123/sistema-estagios)
+[![Bot Promoções Card](https://github-readme-stats.vercel.app/api/pin/?username=brunomecca123&repo=pegou-promo&theme=radical&description_lines_count=2)](https://github.com/brunomecca123/pegou-promo)
 
 </div>
 
-### 🛠️ Projetos Desenvolvidos Recentemente:
-- **🛒 E-commerce para venda de cursos** - Sistema completo com otimização da experiência de compra e gerenciamento avançado de produtos
-- **📚 Sistema de gestão de estágios** - Plataforma que permite envio de atividades pelos alunos e correções práticas pelos tutores
+### 🛠️ Projetos em Desenvolvimento:
+- **🤖 Bot de Promoções Telegram/WhatsApp** - Automação inteligente para capturar e enviar promoções em tempo real através do Telegram e WhatsApp
+- **🛒 E-commerce para venda de cursos** - Sistema completo com otimização da experiência de compra e gerenciamento avançado de produtos *(Projeto Privado - UniCV)*
+- **📚 Sistema de gestão de estágios** - Plataforma que permite envio de atividades pelos alunos e correções práticas pelos tutores *(Projeto Privado - UniCV)*
 
 ## 🌱 O que estou aprendendo atualmente
 
@@ -88,7 +90,7 @@ Sou apaixonado por tecnologia, programação e resolução de problemas. Atualme
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/brunomecca123)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brunomecca123)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunomecca@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5544991032852)
 
