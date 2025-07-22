@@ -1,53 +1,18 @@
 # 👋 Olá! Eu sou Bruno Mecca
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=E74C3C&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;PHP+%7C+Laravel+Expert;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=E74C3C&center=true&vCenter=true&width=435&lines=Desenvolvedor+Web;PHP+%7C+Laravel+%7C+Angular;Full+Stack+Developer;UniCV+Developer+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 ## 🚀 Sobre mim
 
-💻 **Desenvolvedor Web** na **UniCV - Centro Universitário Cidade Verde** desde março de 2024  
-🎓 **Formado** em **Engenharia de Software** e **Análise e Desenvolvimento de Sistemas** pela UniCV  
-⚡ Apaixonado por tecnologia, programação e resolução de problemas complexos
+💻 **Desenvolvedor Web** na **UniCV - Centro Universitário Cidade Verde** desde março de 2024
 
-```php
-<?php
+Sou apaixonado por tecnologia, programação e resolução de problemas. Atualmente atuo como Desenvolvedor Web na UniCV, utilizando PHP com Laravel e iniciando em Angular, com alguns meses de experiência. Busco constantemente novos desafios e aprendizado contínuo para desenvolver soluções eficientes e escaláveis.
 
-class BrunoMecca 
-{
-    private $name = "Bruno Mecca";
-    private $role = "Desenvolvedor Web";
-    private $company = "UniCV - Centro Universitário Cidade Verde";
-    private $location = "Brasil";
-    private $experience = "Full Stack Developer";
-    
-    public function getCurrentStack(): array 
-    {
-        return [
-            "Backend" => ["PHP", "Laravel", "Node.js", "Python"],
-            "Frontend" => ["Angular", "JavaScript", "TypeScript", "HTML5", "CSS3"],
-            "Database" => ["MySQL", "PostgreSQL", "Bancos Relacionais"],
-            "Tools" => ["Git", "Scrum", "API REST", "Docker"],
-            "Learning" => ["Angular (em desenvolvimento)", "Automação com Python"]
-        ];
-    }
-    
-    public function getRecentProjects(): array 
-    {
-        return [
-            "E-commerce para venda de cursos" => "Otimização da experiência de compra e gerenciamento",
-            "Sistema de gestão de estágios" => "Envio de atividades e correções para tutores"
-        ];
-    }
-    
-    public function getEducation(): array 
-    {
-        return [
-            "Engenharia de Software - UniCV",
-            "Análise e Desenvolvimento de Sistemas - UniCV"
-        ];
-    }
-}
+🎓 **Formação:** Engenharia de Software e Análise e Desenvolvimento de Sistemas pela UniCV
+
+💡 **Experiência:** Desenvolvimento full-stack, API REST, banco de dados relacionais, JavaScript, TypeScript, Angular, além de scripts e automações utilizando Node.js e Python.
 
 ## 📊 Estatísticas GitHub
 
@@ -76,6 +41,7 @@ class BrunoMecca
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Database & Tools
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -109,6 +75,7 @@ class BrunoMecca
 - 🅰️ **Angular** - Aprofundando conhecimentos no framework (em desenvolvimento)
 - 🐍 **Python** - Criando scripts e automações
 - 🔥 **Laravel Avançado** - Explorando funcionalidades mais complexas
+- 🎨 **Tailwind CSS** - Framework de CSS utilitário para interfaces modernas
 - 🏗️ **Arquitetura de Software** - Soluções escaláveis e eficientes
 - 📡 **APIs REST** - Melhores práticas e otimização
 
