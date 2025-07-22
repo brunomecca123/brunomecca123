@@ -61,7 +61,7 @@ Sou apaixonado por tecnologia, programação e resolução de problemas. Atualme
 
 <div align="center">
   
-[![E-commerce Card](https://github-readme-stats.vercel.app/api/pin/?username=brunomecca123&repo=ecommerce-cursos&theme=radical&description_lines_count=2)](https://github.com/brunomecca123/ecommerce-cursos)
+[![Bot Telegram Card](https://github-readme-stats.vercel.app/api/pin/?username=brunomecca123&repo=ecommerce-cursos&theme=radical&description_lines_count=2)](https://github.com/brunomecca123/pegou-promo)
 [![Sistema Estágios Card](https://github-readme-stats.vercel.app/api/pin/?username=brunomecca123&repo=sistema-estagios&theme=radical&description_lines_count=2)](https://github.com/brunomecca123/sistema-estagios)
 
 </div>
