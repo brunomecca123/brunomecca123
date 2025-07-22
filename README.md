@@ -6,31 +6,48 @@
 
 ## 🚀 Sobre mim
 
+💻 **Desenvolvedor Web** na **UniCV - Centro Universitário Cidade Verde** desde março de 2024  
+🎓 **Formado** em **Engenharia de Software** e **Análise e Desenvolvimento de Sistemas** pela UniCV  
+⚡ Apaixonado por tecnologia, programação e resolução de problemas complexos
+
 ```php
 <?php
 
 class BrunoMecca 
 {
     private $name = "Bruno Mecca";
-    private $role = "Full Stack Developer";
+    private $role = "Desenvolvedor Web";
+    private $company = "UniCV - Centro Universitário Cidade Verde";
     private $location = "Brasil";
+    private $experience = "Full Stack Developer";
     
-    public function getCurrentFocus(): array 
+    public function getCurrentStack(): array 
     {
         return [
-            "Backend" => ["PHP", "Laravel", "MySQL", "PostgreSQL"],
-            "Frontend" => ["Vue.js", "JavaScript", "HTML5", "CSS3", "Bootstrap"],
-            "Tools" => ["Docker", "Git", "Composer", "NPM"],
-            "Architecture" => ["REST APIs", "MVC", "Clean Code"]
+            "Backend" => ["PHP", "Laravel", "Node.js", "Python"],
+            "Frontend" => ["Angular", "JavaScript", "TypeScript", "HTML5", "CSS3"],
+            "Database" => ["MySQL", "PostgreSQL", "Bancos Relacionais"],
+            "Tools" => ["Git", "Scrum", "API REST", "Docker"],
+            "Learning" => ["Angular (em desenvolvimento)", "Automação com Python"]
         ];
     }
     
-    public function getGoals2024(): string 
+    public function getRecentProjects(): array 
     {
-        return "Contribuir mais para projetos open source e dominar novas tecnologias!";
+        return [
+            "E-commerce para venda de cursos" => "Otimização da experiência de compra e gerenciamento",
+            "Sistema de gestão de estágios" => "Envio de atividades e correções para tutores"
+        ];
+    }
+    
+    public function getEducation(): array 
+    {
+        return [
+            "Engenharia de Software - UniCV",
+            "Análise e Desenvolvimento de Sistemas - UniCV"
+        ];
     }
 }
-```
 
 ## 📊 Estatísticas GitHub
 
@@ -50,21 +67,21 @@ class BrunoMecca
 ### Backend
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
 ### Frontend
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### Ferramentas & DevOps
+### Database & Tools
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
 
 </div>
 
@@ -78,17 +95,27 @@ class BrunoMecca
 
 <div align="center">
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brunomecca123&repo=seu-projeto-laravel&theme=radical)](https://github.com/brunomecca123/seu-projeto-laravel)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brunomecca123&repo=outro-projeto&theme=radical)](https://github.com/brunomecca123/outro-projeto)
+[![E-commerce Card](https://github-readme-stats.vercel.app/api/pin/?username=brunomecca123&repo=ecommerce-cursos&theme=radical&description_lines_count=2)](https://github.com/brunomecca123/ecommerce-cursos)
+[![Sistema Estágios Card](https://github-readme-stats.vercel.app/api/pin/?username=brunomecca123&repo=sistema-estagios&theme=radical&description_lines_count=2)](https://github.com/brunomecca123/sistema-estagios)
 
 </div>
 
+### 🛠️ Projetos Desenvolvidos Recentemente:
+- **🛒 E-commerce para venda de cursos** - Sistema completo com otimização da experiência de compra e gerenciamento avançado de produtos
+- **📚 Sistema de gestão de estágios** - Plataforma que permite envio de atividades pelos alunos e correções práticas pelos tutores
+
 ## 🌱 O que estou aprendendo atualmente
 
-- 🔥 **Laravel 11** - Explorando as últimas features
-- ⚡ **Vue.js 3** - Composition API e performance
-- 🐳 **Docker** - Containerização e DevOps
-- 🚀 **AWS** - Cloud computing e infraestrutura
+- 🅰️ **Angular** - Aprofundando conhecimentos no framework (em desenvolvimento)
+- 🐍 **Python** - Criando scripts e automações
+- 🔥 **Laravel Avançado** - Explorando funcionalidades mais complexas
+- 🏗️ **Arquitetura de Software** - Soluções escaláveis e eficientes
+- 📡 **APIs REST** - Melhores práticas e otimização
+
+## 🎓 Formação Acadêmica
+
+- **🎓 Engenharia de Software** - UniCV - Centro Universitário Cidade Verde
+- **💻 Análise e Desenvolvimento de Sistemas** - UniCV - Centro Universitário Cidade Verde
 
 ## 📫 Como me encontrar
 
