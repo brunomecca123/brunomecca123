@@ -78,7 +78,7 @@ Atuo como Full Stack com PHP e Laravel no backend e estou aprofundando meus conh
 - ** E-commerce para venda de cursos** - Sistema completo com otimização da experiência de compra e gerenciamento avançado de produtos *(Projeto Privado - UniCV)*
 - ** Sistema de gestão de estágios** - Plataforma que permite o acompanhamento e envio de atividades pelos alunos e correções práticas pelos tutores para mais de 100 mil alunos*(Projeto Privado - UniCV)*
 
-## 🌱 O que estou aprendendo atualmente
+## O que estou aprendendo atualmente
 
 -  **Angular** - Aprofundando conhecimentos no framework (em desenvolvimento)
 -  **Python** - Criando scripts e automações
@@ -87,7 +87,7 @@ Atuo como Full Stack com PHP e Laravel no backend e estou aprofundando meus conh
 -  **Arquitetura de Software** - Soluções escaláveis e eficientes
 -  **APIs REST** - Melhores práticas e otimização
 
-## 📫 Como me encontrar
+## Como me encontrar
 
 <div align="center">
 
