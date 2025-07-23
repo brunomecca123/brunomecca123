@@ -8,7 +8,7 @@
 
 Sou desenvolvedor web na **UniCV - Centro Universitário Cidade Verde** desde março de 2024. Transformo ideias em código e tenho paixão por criar soluções digitais com impacto real.
 
-Atuo como Full Stack com PHP e Laravel no backend e estou aprofundando meus conhecimentos em Angular para o frontend. Acredito na importância de código limpo, performático e que resolva problemas do mundo real.
+Atuo como Full Stack com PHP e Laravel e estou aprofundando meus conhecimentos em Angular para o frontend. Acredito na importância de código limpo, performático e que resolva problemas do mundo real.
 
 ### Formação
 - Engenharia de Software – UniCV
