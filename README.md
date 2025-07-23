@@ -96,6 +96,8 @@ Acredito que a tecnologia deve ser acessível e eficiente, por isso me dedico a 
 
 </div>
 
+<img src="https://raw.githubusercontent.com/brunomecca123/brunomecca123/output/snake.svg" alt="Snake animation" />
+
 ---
 
 <div align="center">
