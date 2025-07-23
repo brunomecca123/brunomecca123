@@ -96,24 +96,6 @@ Acredito que a tecnologia deve ser acessível e eficiente, por isso me dedico a 
 
 </div>
 
-## 💡 Frase que me inspira
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=brunomecca123&color=red&style=for-the-badge" alt="Profile views" />
-  
-  ### ✨ *"Código limpo não é escrito seguindo regras. Código limpo é escrito por alguém que se importa."* - Robert C. Martin
-  
-  **⭐ Se você gostou dos meus projetos, deixe uma estrela!**
-</div>
-
-<img src="https://raw.githubusercontent.com/brunomecca123/brunomecca123/output/snake.svg" alt="Snake animation" />
-
 ---
 
 <div align="center">
