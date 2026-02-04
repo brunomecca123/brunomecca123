@@ -24,11 +24,12 @@ Atuo como Full Stack com PHP e Laravel e estou aprofundando meus conhecimentos e
 - Análise e Desenvolvimento de Sistemas – UniCV
 
 ### Experiência
-- Desenvolvimento Full Stack (PHP, Laravel, Angular)
+- Desenvolvimento Full Stack (PHP, Laravel, Vue, Angular)
 - APIs REST
 - Banco de dados relacionais (MySQL, PostgreSQL)
 - JavaScript / TypeScript
 - Scripts e automações com Node.js e Python
+- Várias integrações(JACAD, SPC, SERASA, ASAAS, META, TELEGRAM, BITRIX, GEMINI, etc...)
 
 
 
@@ -54,12 +55,15 @@ Atuo como Full Stack com PHP e Laravel e estou aprofundando meus conhecimentos e
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
 ### Frontend
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
+
 
 ### Database & Tools
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -74,13 +78,59 @@ Atuo como Full Stack com PHP e Laravel e estou aprofundando meus conhecimentos e
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=brunomecca123&theme=redical&hide_border=true&bg_color=0d1117&color=e74c3c&line=e74c3c&point=ffffff" alt="Contribution Graph" />
 </div>
 
-## Projetos em Destaque
+## 🚀 Projetos em Destaque
+
+### 🛍️ Pegou Promo V4 — Bot de Promoções Automatizado
+
+Automação de envio e rastreamento de promoções para **WhatsApp** e **Telegram** 🤖🔥  
+
+O **Pegou Promo V4** é um bot desenvolvido em **Node.js**, focado na gestão inteligente de promoções, combinando automação, controle manual e organização de conteúdo para maximizar conversão.
+
+> 🔒 **Repositório privado**  
+> O código não é público pois contém regras de negócio, integrações e estratégias proprietárias.
+
+---
+
+### ✨ Funcionalidades
+- 📦 Gerenciamento automático de promoções  
+- 📲 Disparo de ofertas no WhatsApp e Telegram  
+- ⏱️ Execução agendada (cron jobs)  
+- 🖥️ **Painel administrativo em Vue.js** para controle de atividades e monitoramento  
+- ✍️ **Disparo manual com suporte de IA**, auxiliando na organização e melhoria do criativo  
+- 🛒 **Tela para clientes visualizarem promoções**, com acesso direto aos seus links personalizados  
+- 📊 Persistência e controle com banco de dados  
+- 🔐 Arquitetura preparada para escalar  
+
+---
+
+### 🧰 Tecnologias
+![Node.js](https://img.shields.io/badge/Node.js-16+-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+
+---
+
+### 🔗 Veja o bot funcionando
+👉 **Grupo no WhatsApp:**  
+https://chat.whatsapp.com/KUHFYMdQFRT60NZovE8Rzw  
+
+👉 **Grupo no Telegram:**  
+https://t.me/pegou_promo
+
+📸 **Instagram (somente promoções):**  
+https://www.instagram.com/pegoupromo.ofertinhas  
+
+---
 
 <div align="center">
-  
-[![Bot Promoções Card](https://github-readme-stats.vercel.app/api/pin/?username=brunomecca123&repo=pegou-promo&theme=radical&description_lines_count=2)](https://github.com/brunomecca123/pegou-promo)
+
+![Pegou Promo V4](https://github-readme-stats.vercel.app/api/pin/?username=brunomecca123&repo=pegou-promo-v4&theme=radical&description_lines_count=2)
 
 </div>
+
 
 ### Projetos em Desenvolvimento:
 - ** Bot de Promoções Telegram/WhatsApp** - Automação inteligente para capturar e enviar promoções em tempo real através do Telegram e WhatsApp
@@ -89,7 +139,7 @@ Atuo como Full Stack com PHP e Laravel e estou aprofundando meus conhecimentos e
 
 ## O que estou aprendendo atualmente
 
--  **Angular** - Aprofundando conhecimentos no framework (em desenvolvimento)
+-  **Vue** - Aprofundando conhecimentos no framework
 -  **Python** - Criando scripts e automações
 -  **Laravel Avançado** - Explorando funcionalidades mais complexas
 -  **Tailwind CSS** - Framework de CSS utilitário para interfaces modernas
