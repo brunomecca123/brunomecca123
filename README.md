@@ -1,7 +1,16 @@
 # 👋 Olá! Eu sou Bruno Mecca
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=E74C3C&center=true&vCenter=true&width=435&lines=Desenvolvedor+Web;PHP+%7C+Laravel+%7C+Angular;Full+Stack+Developer;UniCV+Developer+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=E74C3C&center=true&vCenter=true&width=620&lines=Desenvolvedor+Web;PHP+%7C+Laravel+%7C+Vue;Full+Stack+Developer;" alt="Typing SVG" />
+
+<p align="center">
+  <!-- PHP -->
+  <img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  <!-- Laravel -->
+  <img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" />
+  <!-- Vue -->
+  <img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+</p>
 </div>
 
 ## Sobre mim
